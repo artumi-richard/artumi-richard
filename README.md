@@ -12,7 +12,7 @@ Ansible, and many commercial APIs (eBay, Stripe, Slack, Couriers, 3PL)
 
 ## People skills
 
-I've run Artumi Systems Ltd in the UK since 2013, which has meant having skills in sales and project management, and so
+I've run Artumi Systems Ltd in the UK since 2013 (and as a sole trader since 2006), which has meant having skills in sales and project management, and so
 on, all involving good clear communication with customers.
 
 ## Interests
